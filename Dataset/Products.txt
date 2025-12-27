@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,Flavor,Size,Cost,Price
+C001,Classic Chocolate Chip Cookie,Classic,Chocolate Chip,Regular,0.80,2.50
+C002,Butter Sugar Cookie,Classic,Butter,Regular,0.70,2.30
+C003,Vanilla Crunch Cookie,Classic,Vanilla,Regular,0.75,2.40
+C004,Oatmeal Raisin Cookie,Classic,Oatmeal,Regular,0.85,2.60
+C005,Belgian Chocolate Cookie,Premium,Belgian Chocolate,Large,1.80,4.50
+C006,Double Chocolate Chunk Cookie,Premium,Double Chocolate,Large,1.90,4.70
+C007,White Chocolate Macadamia Cookie,Premium,White Chocolate,Large,1.85,4.60
+C008,Salted Caramel Cookie,Premium,Caramel,Large,1.70,4.40
+C009,Nutella Filled Cookie,Filled,Nutella,Large,1.50,4.00
+C010,Peanut Butter Filled Cookie,Filled,Peanut Butter,Large,1.40,3.80
+C011,Lotus Biscoff Cookie,Filled,Lotus Biscoff,Large,1.60,4.20
+C012,Cream Cheese Cookie,Filled,Cream Cheese,Large,1.45,3.90
+C013,Oatmeal Healthy Cookie,Healthy,Oat,Regular,1.10,3.20
+C014,Sugar-Free Almond Cookie,Healthy,Sugar-Free,Regular,1.20,3.50
+C015,Gluten-Free Chocolate Cookie,Healthy,Gluten-Free,Regular,1.30,3.70
+C016,Vegan Coconut Cookie,Healthy,Vegan,Regular,1.25,3.60
+C017,Ramadan Dates Cookie,Special Edition,Dates,Regular,1.00,3.30
+C018,Valentine Heart Cookie,Special Edition,Strawberry,Regular,1.10,3.50
+C019,Kids Rainbow Cookie,Special Edition,Rainbow,Small,0.90,2.80
+C020,Dark Chocolate Sea Salt Cookie,Premium,Dark Chocolate,Large,1.85,4.60
+C021,Espresso Chocolate Cookie,Premium,Coffee,Large,1.90,4.70
+C022,Peanut Oat Healthy Cookie,Healthy,Peanut Oat,Regular,1.15,3.40
+C023,Mini Chocolate Chip Cookie,Classic,Chocolate Chip,Small,0.50,1.80
+C024,Mini Butter Cookie,Classic,Butter,Small,0.45,1.70
+C025,Triple Chocolate Cookie,Premium,Triple Chocolate,Large,2.00,4.90
+C026,Orange Zest Cookie,Special Edition,Orange,Regular,1.05,3.40
+C027,Cinnamon Oat Cookie,Healthy,Cinnamon Oat,Regular,1.10,3.30
+C028,Milk Chocolate Cookie,Classic,Milk Chocolate,Regular,0.90,2.70
+C029,Hazelnut Filled Cookie,Filled,Hazelnut,Large,1.55,4.10
+C030,Kids Chocolate Cookie,Special Edition,Chocolate,Small,0.85,2.60
