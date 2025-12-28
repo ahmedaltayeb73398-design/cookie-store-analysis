@@ -1,4 +1,0 @@
-StoreID,StoreName,StoreType,Country,City
-S001,Dubai Online Store,Online,UAE,Dubai
-S002,Abu Dhabi Online Store,Online,UAE,Abu Dhabi
-S003,Sharjah Online Store,Online,UAE,Sharjah
