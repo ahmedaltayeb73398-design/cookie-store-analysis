@@ -55,5 +55,5 @@ Here are screenshots of the dashboard:
 ![Page 3](Screenshots/Data_Model.jpg)
 
 ## 📦 Full Project
-A complete project file is available as a ZIP: `Cookie Store Product Analysis.zip`
+A complete project file is available as a ZIP: `Cookie_Store_Product_Analysis.zip`
 
