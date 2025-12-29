@@ -8,8 +8,9 @@ This Power BI project analyzes product performance for a cookie store to identif
 - Power Query
 - DAX
 - Data Modeling
+  
 
-##❓ Business Problem
+## ❓ Business Problem
 
 The cookie store needs clear insights into:
 
