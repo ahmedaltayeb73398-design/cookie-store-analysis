@@ -1,4 +1,4 @@
-🍪 Cookie Store Product Performance Analysis
+## 🍪 Cookie Store Product Performance Analysis
 📌 Project Overview
 
 This Power BI project analyzes product performance for a cookie store to identify top-selling items, most profitable products, and underperforming categories and flavors. The goal is to support data-driven decisions related to product strategy, pricing, and inventory optimization.
@@ -19,7 +19,7 @@ Which products contribute the most profit
 
 Which flavors and categories are underperforming
 
-🎯 Key Business Questions
+## 🎯 Key Business Questions
 
 What are the top-selling products by quantity?
 
@@ -29,7 +29,8 @@ Which flavors are underperforming?
 
 Which product categories generate the highest and lowest revenue?
 
-🗂️ Data Model
+
+## 🗂️ Data Model
 
 The analysis is built using a star schema consisting of:
 
