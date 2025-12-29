@@ -18,7 +18,7 @@ Here are screenshots of the dashboard:
 
 ![Page 1](Screenshots/Page1.jpg)
 ![Page 2](Screenshots/Page2.jpg)
-![Page 3](Screenshots/Data Model.jpg)
+![Page 3](Screenshots/Data_Model.jpg)
 
 > Replace the screenshot file names with the actual names of your images in the `Screenshots` folder.
 
