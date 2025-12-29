@@ -3,6 +3,13 @@
 
 This Power BI project analyzes product performance for a cookie store to identify top-selling items, most profitable products, and underperforming categories and flavors. The goal is to support data-driven decisions related to product strategy, pricing, and inventory optimization.
 
+## 📷 Dashboard Preview
+Here are screenshots of the dashboard:
+
+![Page 1](Screenshots/Page1.jpg)
+![Page 2](Screenshots/Page2.jpg)
+![Page 3](Screenshots/Data_Model.jpg)
+
 ## 🛠 Tools & Skills
 - Power BI Desktop
 - Power Query
@@ -49,13 +56,7 @@ Dim_Date – Date dimension for time analysis
 ## 📂 Dataset
 All data tables are included in the `Dataset` folder as an Excel file.
 
-## 📷 Dashboard Preview
-Here are screenshots of the dashboard:
 
-![Page 1](Screenshots/Page1.jpg)
-![Page 2](Screenshots/Page2.jpg)
-![Page 3](Screenshots/Data_Model.jpg)
 
-## 📦 Full Project
-A complete project file is available as a ZIP: `Cookie_Store_Product_Analysis.zip`
+
 
