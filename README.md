@@ -16,9 +16,9 @@ All data tables are included in the `Dataset` folder as an Excel file.
 ## 📷 Dashboard Preview
 Here are screenshots of the dashboard:
 
-![Dashboard 1](Screenshots/Page1.png)
-![Dashboard 2](Screenshots/Page2.png)
-![Dashboard 3](Screenshots/DataModel.png)
+![Page 1](Screenshots/Page1.jpg)
+![Page 2](Screenshots/Page2.jpg)
+![Page 3](Screenshots/Data Model.jpg)
 
 > Replace the screenshot file names with the actual names of your images in the `Screenshots` folder.
 
